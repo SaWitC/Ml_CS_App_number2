@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ml_Cs_MultiClass_classification", "Ml_Cs_MultiClass_classification\Ml_Cs_MultiClass_classification.csproj", "{69383754-D50D-4CDE-9213-E75324223B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69383754-D50D-4CDE-9213-E75324223B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69383754-D50D-4CDE-9213-E75324223B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69383754-D50D-4CDE-9213-E75324223B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69383754-D50D-4CDE-9213-E75324223B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B150BA-5EC8-444F-85C5-D6E7F7C9AE22}
+	EndGlobalSection
+EndGlobal
